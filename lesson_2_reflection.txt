@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	the directory will be changed to be a git repository by initialize the git. Without doing git init, it's not possible for sytem to recoginize it as a repsository
